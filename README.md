@@ -11,9 +11,10 @@
 
 ## About Me
 
-- I work in Strategy &amp; Transformation at Capgemini Invent while finishing a Master's degree in International Strategy and Economic Intelligence at Université Paris 1 Panthéon-Sorbonne.
-- My dissertation looks at the rise of agentic AI and asks whether it extends earlier waves of digital innovation or changes the way organizations coordinate work.
-- In my spare time, I build software with a clear problem, a short feedback loop, and enough documentation to make the result useful to someone else.
+- I work in Strategy &amp; Transformation at Capgemini Invent.
+- I am completing a Master's degree in International Strategy and Economic Intelligence at Université Paris 1 Panthéon-Sorbonne.
+- My dissertation focuses on agentic AI and organizational change.
+- In my spare time, I build small software projects.
 
 ## My Skill Set
 
@@ -38,25 +39,30 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Bibimbap](https://github.com/amassias/Bibimbap) | A native macOS app for configuring supported Pulsar mice. It reads device state through macOS HID and reads settings back after writes. | Swift, SwiftUI, macOS HID |
-| [DramaTrack](https://github.com/amassias/DramaTrack) | An iOS app that syncs a MyDramaList watchlist, tracks upcoming episodes, and schedules notifications. | Swift, SwiftUI, iOS |
-| [SkyTrace](https://github.com/amassias/OpenSky-Flight-Tracking) | A map-first flight intelligence interface with live traffic, airport history, aircraft tracks, and altitude profiles. | React, TypeScript, Python, OpenSky API |
-| [PomoPlane](https://github.com/amassias/PomoPlane) | A Pomodoro timer linked to real-time flight data. The selected focus period becomes the duration of a flight to follow. | JavaScript, HTML, CSS, OpenSky API |
+| [Bibimbap](https://github.com/amassias/Bibimbap) | Native macOS app for supported Pulsar mice. Reads device state through macOS HID. Reads settings back after writes. | Swift, SwiftUI, macOS HID |
+| [DramaTrack](https://github.com/amassias/DramaTrack) | iOS app for MyDramaList watchlists. Tracks upcoming episodes. Schedules notifications. | Swift, SwiftUI, iOS |
+| [SkyTrace](https://github.com/amassias/OpenSky-Flight-Tracking) | Flight intelligence interface. Shows live traffic, airport history, aircraft tracks, and altitude profiles. | React, TypeScript, Python, OpenSky API |
+| [PomoPlane](https://github.com/amassias/PomoPlane) | Pomodoro timer linked to live flight data. Uses flight duration as the focus period. | JavaScript, HTML, CSS, OpenSky API |
 
 ## Repository Structure &amp; Philosophy
 
-I use GitHub for both finished tools and experiments. Most of my repositories fall into two groups:
+I use GitHub for tools and experiments.
+
+Most of my repositories fall into two groups:
 
 - Practical software projects, including native macOS and iOS apps.
-- Smaller experiments around APIs, data, automation, and research questions.
+- Smaller experiments around APIs, data, automation, and research.
 
-A project may start as a small idea and grow into something more structured. I try to keep the README honest about its scope, what has been tested, and what still needs to be checked, especially when hardware or external APIs are involved.
+A project may start as a small idea.
+It can grow into something more structured.
+
+I keep each README clear about its scope, tested features, and open points. This matters when a project depends on hardware or external APIs.
 
 ## Currently exploring
 
-- How agentic AI changes coordination, delegation, and supervision in organizations.
-- How to turn research questions into clear and testable prospective scenarios.
-- How native macOS and iOS apps can interact directly with devices while keeping data local.
+- Agentic AI and organizational coordination.
+- Clear and testable prospective scenarios.
+- Local device interactions in macOS and iOS apps.
 
 ## Connect with me
 
@@ -76,7 +82,3 @@ A project may start as a small idea and grow into something more structured. I t
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amassias/amassias/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/amassias/amassias/output/pacman-contribution-graph.svg">
 </picture>
-
-<p align="center">
-  <sub>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a>.</sub>
-</p>
