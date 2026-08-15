@@ -11,7 +11,6 @@
 
 ## About Me
 
-- I work in Strategy &amp; Transformation at Capgemini Invent.
 - I am completing a Master's degree in International Strategy and Economic Intelligence at Université Paris 1 Panthéon-Sorbonne.
 - My dissertation focuses on agentic AI and organizational change.
 - In my spare time, I build small software projects.
@@ -35,15 +34,6 @@
   <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## Selected projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [Bibimbap](https://github.com/amassias/Bibimbap) | Native macOS app for supported Pulsar mice. Reads device state through macOS HID. Reads settings back after writes. | Swift, SwiftUI, macOS HID |
-| [DramaTrack](https://github.com/amassias/DramaTrack) | iOS app for MyDramaList watchlists. Tracks upcoming episodes. Schedules notifications. | Swift, SwiftUI, iOS |
-| [SkyTrace](https://github.com/amassias/OpenSky-Flight-Tracking) | Flight intelligence interface. Shows live traffic, airport history, aircraft tracks, and altitude profiles. | React, TypeScript, Python, OpenSky API |
-| [PomoPlane](https://github.com/amassias/PomoPlane) | Pomodoro timer linked to live flight data. Uses flight duration as the focus period. | JavaScript, HTML, CSS, OpenSky API |
-
 ## Repository Structure &amp; Philosophy
 
 I use GitHub for tools and experiments.
@@ -62,6 +52,7 @@ I keep each README clear about its scope, tested features, and open points. This
 
 - Agentic AI and organizational coordination.
 - Clear and testable prospective scenarios.
+- Building an agent on my VPS with Hermes.
 - Local device interactions in macOS and iOS apps.
 
 ## Connect with me
