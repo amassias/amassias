@@ -1,13 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/sRFEa8lbeC7zbcIZZR/giphy-downsized.gif" alt="Blue coding and technology animation">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enc1NXk1aHN2aDE1NzVxYW9lZGt3OW80bTRjcmVlcHV0bzBxNndxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HzPtbOKyBoBFsK4hyc/giphy.gif" alt="Duck coding animation">
 </div>
 
 <p align="center">
-  <strong>Arthur Massias</strong><br>
-  Strategy &amp; Transformation &middot; AI governance &middot; Data analysis &middot; Software projects
+  Strategy &amp; Transformation &bull; AI governance &bull; Data analysis &bull; Software projects
 </p>
-
-<!-- Header animation: GIPHY, Matthew Butler -->
 
 ## About Me
 
