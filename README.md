@@ -17,9 +17,9 @@ Two kinds of repositories:
 
 ## Currently exploring
 
-- Whether agents actually change how a team works, or just move the same work around.
-- An agent running on my own VPS with Hermes. It works, though I am still figuring out what it is genuinely useful for.
-- Talking to hardware from macOS and iOS apps, mostly HID.
+- What Hermes is actually good for. I am going through use cases and configuration to see where the agent saves real time and where it just adds a step.
+- Whether vibe coding really changes how software gets made. I build everything that way now, so I will find out.
+- Running my own VPS over SSH, and figuring out what is worth hosting on it.
 
 ## Connect with me
 
