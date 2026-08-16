@@ -6,7 +6,7 @@
 
 - Master's student in International Strategy and Economic Intelligence at Université Paris 1 Panthéon-Sorbonne.
 - Writing my thesis on agentic AI and organizational change.
-- I build software on the side, mostly native macOS and iOS apps.
+- I build software on the side (everything is vibe coded using Codex and Claude Code).
 
 ## What you will find here
 
@@ -17,9 +17,9 @@ Two kinds of repositories:
 
 ## Currently exploring
 
-- How agentic AI changes the way teams coordinate. It overlaps with my thesis, so I go back and forth between reading about it and building things.
+- Whether agents actually change how a team works, or just move the same work around.
 - An agent running on my own VPS with Hermes. It works, though I am still figuring out what it is genuinely useful for.
-- On the macOS and iOS side, I mostly poke at how an app talks to the devices plugged into the machine.
+- Talking to hardware from macOS and iOS apps, mostly HID.
 
 ## Connect with me
 
