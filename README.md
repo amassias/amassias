@@ -12,17 +12,14 @@
 
 Two kinds of repositories:
 
-- **Software projects** — native macOS and iOS apps, and tools I use myself.
-- **Experiments** — APIs, data, automation, and side work around my research.
-
-Each README states the scope, what is actually tested, and what is still open. That matters most when a project depends on specific hardware or on an external API.
+- Software projects, mostly native macOS and iOS apps and a few tools I built for myself.
+- Smaller experiments around APIs, data, automation, and whatever my research pushes me into.
 
 ## Currently exploring
 
-- Agentic AI and how it changes coordination inside organizations.
-- Prospective scenarios that stay clear enough to be testable.
-- Running an agent on my own VPS with Hermes.
-- Local device interaction in macOS and iOS apps.
+- How agentic AI changes the way teams coordinate. It overlaps with my thesis, so I go back and forth between reading about it and building things.
+- An agent running on my own VPS with Hermes. It works, though I am still figuring out what it is genuinely useful for.
+- On the macOS and iOS side, I mostly poke at how an app talks to the devices plugged into the machine.
 
 ## Connect with me
 
