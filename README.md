@@ -12,13 +12,13 @@
 
 Two kinds of repositories:
 
-- Software projects, mostly native macOS and iOS apps and a few tools I built for myself.
+- Software projects, mostly native macOS and iOS apps, websites of all kinds hosted on Vercel, and a few tools I built for myself.
 - Smaller experiments around APIs, data, automation, and whatever my research pushes me into.
 
 ## Currently exploring
 
-- What Hermes is actually good for. I am going through use cases and configuration to see where the agent saves real time and where it just adds a step.
-- Whether vibe coding really changes how software gets made. I build everything that way now, so I will find out.
+- What Hermes Agent is actually good for. I am going through use cases and configuration to see where this tool saves real time and where not.
+- Whether vibe coding really changes how software gets made. I build everything that way now with no major background in that field.
 - Running my own VPS over SSH, and figuring out what is worth hosting on it.
 
 ## Connect with me
